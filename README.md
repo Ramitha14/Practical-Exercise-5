@@ -1,4 +1,4 @@
-This repository is for practical exercise 4.It includes collections and generics
+This repository is for practical exercise 5.It includes collections and generics
 
 1. Write a Java program to update specific array element by given element and empty the ​ array list​ .
 Input: [Apple, Grape, Melon, Berry]
